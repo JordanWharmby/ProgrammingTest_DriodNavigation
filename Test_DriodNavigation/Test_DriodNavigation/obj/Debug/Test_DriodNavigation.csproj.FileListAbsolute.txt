@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\Test_DriodNavigation\Test_DriodNavigation\bin\Debug\Test_DriodNavigation.exe.config
+C:\Users\David\source\repos\Test_DriodNavigation\Test_DriodNavigation\bin\Debug\Test_DriodNavigation.exe
+C:\Users\David\source\repos\Test_DriodNavigation\Test_DriodNavigation\bin\Debug\Test_DriodNavigation.pdb
+C:\Users\David\source\repos\Test_DriodNavigation\Test_DriodNavigation\obj\Debug\Test_DriodNavigation.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Test_DriodNavigation\Test_DriodNavigation\obj\Debug\Test_DriodNavigation.Form1.resources
+C:\Users\David\source\repos\Test_DriodNavigation\Test_DriodNavigation\obj\Debug\Test_DriodNavigation.Properties.Resources.resources
+C:\Users\David\source\repos\Test_DriodNavigation\Test_DriodNavigation\obj\Debug\Test_DriodNavigation.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Test_DriodNavigation\Test_DriodNavigation\obj\Debug\Test_DriodNavigation.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Test_DriodNavigation\Test_DriodNavigation\obj\Debug\Test_DriodNavigation.exe
+C:\Users\David\source\repos\Test_DriodNavigation\Test_DriodNavigation\obj\Debug\Test_DriodNavigation.pdb
